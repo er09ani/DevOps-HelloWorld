@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
 	<h2> Debug </h2>
 <h3> Hi Snehal </h3>
+<h4> Hi Aniruddha </h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
