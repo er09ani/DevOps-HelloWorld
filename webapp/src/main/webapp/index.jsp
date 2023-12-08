@@ -4,6 +4,7 @@
 	<h2> Debug </h2>
 <h3> Hi Snehal </h3>
 <h4> Hi Aniruddha </h4>
+<h5> All rights reserved </h5>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
